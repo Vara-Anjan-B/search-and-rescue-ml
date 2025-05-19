@@ -65,7 +65,7 @@ search-and-rescue-ml/
 
 | Original Image        | Detection Output       |
 | --------------------- | ---------------------- |
-| ![](images/input.jpg) | ![](C:/Users/banki/OneDrive/Pictures/Screenshots/Screenshot 2025-05-19 191728.png) |
+| ![]("C:\Users\banki\OneDrive\Desktop\SARD\search-and-rescue-2\images\test\gss40_jpg.rf.644b5330c5316e4ecfcf4ac506a2630a.jpg") | ![]("C:\Users\banki\OneDrive\Desktop\SARD\search-and-rescue-2\images\test\gss40.png") |
 
 > Replace with your own example images if available
 
