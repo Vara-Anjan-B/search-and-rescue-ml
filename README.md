@@ -65,13 +65,13 @@ search-and-rescue-ml/
 
 | Original Image        | Detection Output       |
 | --------------------- | ---------------------- |
-| ![](images/input.jpg) | ![](images/output.jpg) |
+| ![](images/input.jpg) | ![](C:/Users/banki/OneDrive/Pictures/Screenshots/Screenshot 2025-05-19 191728.png) |
 
 > Replace with your own example images if available
 
 ---
 
-## 📊 Model Performance
+Model Performance
 
 * **Trained for:** 100 epochs
 * **Image size:** 640 × 640
@@ -79,21 +79,10 @@ search-and-rescue-ml/
 
 | Metric    | Score   |
 | --------- | ------- |
-| mAP\@0.5  | XX.XX % |
-| Precision | XX.XX % |
-| Recall    | XX.XX % |
+| mAP\@0.5  | 0.741 % |
+| Precision | 0.786 % |
+| Recall    | 0.174 % |
 
-(*Update with your real results*)
-
----
-
-## 🔧 Future Improvements
-
-* Test with real-time video
-* Improve accuracy with YOLOv10 or YOLOv10s
-* Deploy as a web app (Flask or Streamlit)
-
----
 
 Acknowledgements
 
