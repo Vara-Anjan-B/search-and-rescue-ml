@@ -68,11 +68,7 @@ search-and-rescue-ml/
 
 
 
-| ![](![gss1495_jpg rf b30ada643d64c788f4784de2343c55fa](https://github.com/user-attachments/assets/34f82261-d751-4f19-9e32-5cddcd56ba52))
-
-) | ![](![image](https://github.com/user-attachments/assets/d92e35c1-34d6-4611-a43e-e6b6e043971e)
-)
-) |
+| ![](![gss1495_jpg rf b30ada643d64c788f4784de2343c55fa](https://github.com/user-attachments/assets/34f82261-d751-4f19-9e32-5cddcd56ba52)) | ![](![image](https://github.com/user-attachments/assets/d92e35c1-34d6-4611-a43e-e6b6e043971e))
 
 
 ---
