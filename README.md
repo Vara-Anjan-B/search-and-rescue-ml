@@ -51,9 +51,8 @@ python src/predict.py
 ```
 search-and-rescue-ml/
 ├── data/             # Sample images and labels
-├── models/           # Trained YOLOv10n model (best.pt)
-├── src/              # Python scripts (train, predict, helpers)
-├── yolov10/          # YOLOv10 source code (downloaded or cloned)
+├── models/           # Trained YOLOv10n model
+├── yolov10/          # YOLOv10 source code
 ├── README.md         # This file
 ├── requirements.txt  # Python packages needed
 └── .gitignore        # Files to ignore
@@ -65,9 +64,13 @@ search-and-rescue-ml/
 
 | Original Image        | Detection Output       |
 | --------------------- | ---------------------- |
-| ![]("C:\Users\banki\OneDrive\Desktop\SARD\search-and-rescue-2\images\test\gss40_jpg.rf.644b5330c5316e4ecfcf4ac506a2630a.jpg") | ![]("C:\Users\banki\OneDrive\Desktop\SARD\search-and-rescue-2\images\test\gss40.png") |
 
-> Replace with your own example images if available
+
+
+| ![](![gss1495_jpg rf b30ada643d64c788f4784de2343c55fa](https://github.com/user-attachments/assets/c65717a4-e146-4965-8274-7cf0bc4e8055)
+) | ![](![image](https://github.com/user-attachments/assets/6857f182-6bd4-4726-a260-982950851f07)
+) |
+
 
 ---
 
@@ -79,9 +82,9 @@ Model Performance
 
 | Metric    | Score   |
 | --------- | ------- |
-| mAP\@0.5  | 0.741 % |
-| Precision | 0.786 % |
-| Recall    | 0.174 % |
+| mAP\@0.5  | 0.795 % |
+| Precision | 0.901 % |
+| Recall    | 0.865 % |
 
 
 Acknowledgements
